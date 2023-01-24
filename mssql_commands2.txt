@@ -1,0 +1,8 @@
+(localdb)\METIIT
+
+https://www.mssqltips.com/sqlservertip/5612/getting-started-with-sql-server-2017-express-localdb/
+
+1) SqlLocalDb info
+2) SqlLocalDb create "DACIIT"
+3) SqlLocalDb start DACIIT
+sqlcmd -S "(localdb)\METIIT"

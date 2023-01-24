@@ -1,0 +1,16 @@
+SqlLocalDb info
+SqlLocalDb create "DACIIT"
+SqlLocalDb info
+SqlLocalDb info DACIIT
+SqlLocalDb info METIIT
+SqlLocalDb start DACIIT
+SqlLocalDb info DACIIT\
+SqlLocalDb info DACIIT
+sqlcmd -S "(localdb)\METIIT"
+history >Mssqlcmds
+doskey \>Mssqlcmds
+doskey >Mssqlcmds
+dir
+doskey /history
+d:
+doskey /history >mssql_commands
